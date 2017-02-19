@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
-  "version": "1.0",
+  "name": "Mobile Redirect",
+  "description": "This extension will switch users to the full version of a website when a URL for a mobile based website is accessed",
+  "version": "0.1",
 
   "browser_action": {
     "default_icon": "icon.png",
